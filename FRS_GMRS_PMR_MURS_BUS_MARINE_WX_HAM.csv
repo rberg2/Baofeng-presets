@@ -1,5 +1,4 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-0,FRS 01,462.562500,,0.000000,Tone,67.0,88.5,023,NN,NFM,5.00,,,,,,
 1,FRS 1,462.562500,,0.000000,Tone,67.0,88.5,023,NN,NFM,5.00,,,,,,
 2,FRS 2,462.587500,,0.000000,Tone,67.0,88.5,023,NN,NFM,5.00,,,,,,
 3,FRS 3,462.612500,,0.000000,Tone,67.0,88.5,023,NN,NFM,5.00,,,,,,
@@ -98,3 +97,4 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 96,HAM 55,146.550000,,0.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
 97,HAMUHF,446.000000,,0.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
 98,HAM U3,446.030000,,0.000000,Tone,100.0,88.5,023,NN,FM,5.00,,,,,,
+1000,LOCAL,444.640000,+,5.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
